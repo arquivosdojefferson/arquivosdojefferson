@@ -1,15 +1,15 @@
 <div align="center">
-  <h1>Hey there, I'm Jefferson PenPen 👋</h1>
+  <h1>Hey there, I'm Jefferson PenPen
+  <img src="https://i.ibb.co/Rp8pmW26/Genius.png" width="120">
+  </h1>
 </div>
 
 <table width="100%" border="0" style="border: none; margin: 0; padding: 0;">
   <tr valign="top">
     <td width="65%" style="padding-right: 20px;">
       
-  <p align="center">
-        <img src="https://i.ibb.co/WvDrXXhk/Pense-Bem.png" alt="Pense Bem" width="180"/>
-        &nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="https://i.ibb.co/Rp8pmW26/Genius.png" alt="Genius" width="180"/>
+  <p align="center"><br>
+        <img src="https://i.ibb.co/WvDrXXhk/Pense-Bem.png" alt="Pense Bem" width="180"/  align="left" style="float: left">
       </p>
       
    <p><strong>Skills</strong></p>
@@ -19,13 +19,11 @@
         <li><strong>Desenvolvimento Full Stack:</strong> <i>Weird Science</i></li>
       </ul>
 
-   <br><hr><br>
+   <br><br>
 
    <table width="100%" border="0" style="border: none;">
         <tr valign="top">
-          <td width="210"><img src="https://i.ibb.co/jZrjRjWB/Falkor.png" alt="Falkor from The NeverEnding Story" width="200"/></td>
-          <td>
-            <p><strong>DO WHAT YOU DREAM</strong></p>
+            <p><strong>DO WHAT YOU DREAM</strong><img src="https://i.ibb.co/jZrjRjWB/Falkor.png" alt="Falkor from The NeverEnding Story" width="400"/>
             <ul>
                 <li><a href="URL_DO_PROJETO_1">Nome do Projeto 1</a>: Uma breve descrição</li>
                 <li><a href="URL_DO_PROJETO_2">Nome do Projeto 2</a>: Uma breve descrição</li>
@@ -34,7 +32,7 @@
         </tr>
       </table>
 
-   <br><hr><br>
+   <br><br>
       
    <table width="100%" border="0" style="border: none;">
         <tr valign="top">
@@ -49,11 +47,11 @@
         </tr>
       </table>
       
-   <br><hr><br>
+   <br><br>
 
    <table width="100%" border="0" style="border: none;">
         <tr valign="top">
-          <td width="60"><img src="https://i.ibb.co/5hRRvH0x/bettleverde.png" alt="Beetlejuice" width="50"/></td>
+          <td width="150"><img src="https://i.ibb.co/5hRRvH0x/bettleverde.png" alt="Beetlejuice" width="150"/></td>
           <td>
             <p><strong>Beetlejuice! Beetlejuice! Beetlejuice!</strong></p>
             <p>Chame meu nome três vezes ou...</p>
@@ -75,8 +73,8 @@
       <div align="center">
         <strong><h2>Tesouros</h2></strong> <img src="https://i.ibb.co/nNmRqYjz/bau.png" alt="Goonies Treasure" width="80"/>
         <br>
-        <img src="https://i.ibb.co/5zjv5Jw/OCI.png" alt="Oracle Cloud Infrastructure Foundations Associate 2025" height="90"/>
-        <img src="https://i.ibb.co/jn5zvVT/Academia.png" alt="Academia Globotech" height="90"/>
+        <img src="https://i.ibb.co/5g0d46GY/OCI.png" alt="Oracle Cloud Infrastructure Foundations Associate 2025" height="120"/>
+        <img src="https://i.ibb.co/jn5zvVT/Academia.png" alt="Academia Globotech" height="120"/>
       </div>
     </td>
   </tr>
